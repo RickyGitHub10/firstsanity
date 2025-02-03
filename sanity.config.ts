@@ -5,7 +5,7 @@ import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
   name: 'default',
-  title: 'firstSanity',
+  title: 'Day One With Sanity',
 
   projectId: 'yg7suzhn',
   dataset: 'production',
